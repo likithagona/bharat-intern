@@ -1,4 +1,4 @@
-![Screenshot 2024-02-19 205200](https://github.com/likithagona/bharat-intern/assets/141348510/c2c4df76-cae7-4996-9454-6871db8da336)# Bharat Internship Web Development Project
+# Bharat Intern
 
 ## Overview
 This repository contains my application project for the web development internship position at Bharat Intern. The project showcases my skills in web development and demonstrates my ability to create responsive and user-friendly web applications.
